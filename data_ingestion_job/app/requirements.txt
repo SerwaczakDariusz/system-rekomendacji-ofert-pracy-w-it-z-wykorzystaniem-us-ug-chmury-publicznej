@@ -1,0 +1,6 @@
+# Requirements for Python 3.10.9
+pymongo==4.3.3
+pyyaml==6.0.0
+requests==2.28.2
+aiohttp==3.8.3
+beautifulsoup4==4.11.2
